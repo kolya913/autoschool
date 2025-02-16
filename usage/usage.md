@@ -6,7 +6,7 @@
 Для использования мобильного приложения на устройствах Android и iOS, выполните следующие шаги:
 
 1. Для Android:
-   - Перейдите в [Google Play](https://play.google.com) и установите приложение.
+   - Перейдите в [RuStore](https://www.rustore.ru/) и установите приложение.
    - [Установка на Android](installation/android.md)
 
 2. Для iOS:
